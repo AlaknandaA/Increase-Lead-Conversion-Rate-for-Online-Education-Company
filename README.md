@@ -1,5 +1,5 @@
 # Increase-Lead-Conversion-Rate-for-Online-Education-Company
-## Increase the lead to consumer conversion rate for X Education, an online education company. Analyse dataset using python and present insights to management.
+### Increase the lead to consumer conversion rate for X Education, an online education company. Analyse dataset using python and present insights to management.
 
 An education company named X Education sells online courses to industry professionals, their current lead conversion rate is 30% which is very poor. CEO wanted to improve their lead conversion rate, where our objective is to use Logistic Regression model to improve the lead score and create a model which can have a lead conversion rate of 80%.
 
